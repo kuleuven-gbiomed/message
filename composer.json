@@ -1,0 +1,17 @@
+{
+  "name": "kuleuven-gbiomed/message",
+  "description": "Contracts regarding messages.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Tomasz Darmetko",
+      "email": "isinlor@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Kuleuven\\Gbiomed\\Message\\": "src/"
+    }
+  }
+}
